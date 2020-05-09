@@ -9,7 +9,7 @@ pip install pywin32
 pip install pipwin
 pipwin install pyaudio
 
-Please don't use this method to send email because it is less secure it os only for educational purpose 
+Please don't use this method to send email because it is less secure it  only for educational purpose 
 
 sendermail@gmail.com  - use sender mail address.
 senderpassword - use sender password.
